@@ -1,6 +1,6 @@
 # Frosted Glass
 
-IMPORTANT NOTICE: This is my personal edit and not the official FrostedGlass theme.
+**IMPORTANT NOTICE:** This is my personal edit and not the official FrostedGlass theme.
 
 Display your picture of choice with adjustable blur and brightness. Dark theme is required.
 
