@@ -17,7 +17,7 @@
   /*
    * Background image variables
    */
-  --background-image: url("https://cdn.cloudflare.steamstatic.com/steam/apps/1074321/ss_765d07603b091480c917f810d0e903a61f925b5b.1920x1080.jpg?t=1571754933"); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url("https://cdn.mobygames.com/promos/7648967-total-war-warhammer-ii-gor-rok-screenshot.jpg"); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-image-blur: 5px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
   --background-image-size: cover; /* Size of the background image | DEFAUT: cover | OPTIONS: cover, contain */
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
